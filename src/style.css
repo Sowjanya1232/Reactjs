@@ -1,0 +1,37 @@
+h3{
+    color: lightseagreen;
+    position: relative;
+    right: 70px;
+}
+.cc{
+    background-color:white;
+    width: 400px;
+    height:200px;
+    border-radius: 7px;
+   
+}
+.ima{
+    width: 400px;
+    position: relative;
+    top:25px;
+    border-radius: 5px;
+    
+}
+#root{
+    background-color: gainsboro;
+    width: 600px;
+    height: 550px;
+    position: relative;
+    left: 500px;
+    border-radius: 5px;
+}
+h4{
+    color: dimgray;
+    position: relative;
+    right: 40px;
+    
+}
+h1{
+    position: relative;
+    right: 150px;
+}
